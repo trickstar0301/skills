@@ -1,0 +1,9 @@
+{
+  "name": "trickstar",
+  "version": "0.1.0",
+  "description": "Personal skill collection by @trickstar0301. Includes Japanese blog style guide (blog-style), skill review rubric (reviewing-skills), and HTML deck generation (html-deck).",
+  "author": {
+    "name": "trickstar0301",
+    "url": "https://github.com/trickstar0301"
+  }
+}
