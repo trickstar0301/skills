@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "trickstar0301",
+  "description": "Personal Claude Code skill library by @trickstar0301",
+  "owner": {
+    "name": "trickstar0301",
+    "url": "https://github.com/trickstar0301"
+  },
+  "plugins": [
+    {
+      "name": "trickstar",
+      "description": "Personal skill collection: blog style, skill reviewing, HTML deck generation",
+      "author": {
+        "name": "trickstar0301"
+      },
+      "source": "./trickstar",
+      "category": "personal",
+      "homepage": "https://github.com/trickstar0301/skills"
+    }
+  ]
+}
